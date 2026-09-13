@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="Toppy.API/Toppy.API.csproj" />
+  <Project Path="Toppy.Application/Toppy.Application.csproj" />
+  <Project Path="Toppy.Domain/Toppy.Domain.csproj" />
+  <Project Path="Toppy.Infrastructure/Toppy.Infrastructure.csproj" />
+  <Project Path="Toppy.Tests/Toppy.Tests.csproj" />
+</Solution>
